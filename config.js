@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Gosang',
     photo: '/photo.jpg',
-    bio: 'Gosang의 기록 블로그',
+    bio: 'Development study and record',
     contacts: {
       email: '',
       facebook: '#',
