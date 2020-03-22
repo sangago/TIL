@@ -12,17 +12,25 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'ALL',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'AWS',
+      path: '/aws'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Docker',
+      path: '/docker'
+    },
+    // {
+    //   label: 'About me',
+    //   path: '/pages/about'
+    // }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Gosang',
