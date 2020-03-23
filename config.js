@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Gosang',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Hello!!!!!!!!!!!!!!!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
