@@ -16,11 +16,11 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'AWS',
+      label: 'Categories',
       path: '/categories'
     },
     {
-      label: 'Docker',
+      label: 'Tags',
       path: '/tags'
     },
     // {
