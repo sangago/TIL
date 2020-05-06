@@ -38,7 +38,7 @@ module.exports = {
     bio: 'Development study and record',
     contacts: {
       email: 'sangago.dev@gmail.com',
-      facebook: '#',
+      // facebook: '#',
       telegram: '#',
       twitter: '#',
       github: 'https://github.com/sangago/gosangB',
