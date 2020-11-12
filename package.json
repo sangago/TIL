@@ -16,8 +16,11 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sangago/gosangB"
+  },
+  "author": "Alexander Shelepenok <sangago.dev@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",

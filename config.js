@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Gosang TIL',
-  subtitle: 'Today I Learned',
+  title: 'Blog by Gosang',
+  subtitle: 'Hello!!!!!!!!!!!!!!!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Gosang',
     photo: '/photo.jpg',
-    bio: '오늘 나는 배웠다',
+    bio: 'Development study and record',
     contacts: {
       email: '',
       facebook: '#',
