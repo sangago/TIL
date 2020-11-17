@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://gosang.netlify.com/',
+  url: 'https://gosang-til.netlify.app/',
   pathPrefix: '/',
   title: 'Gosang TIL',
   subtitle: 'Today I Learned',
@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Gosang',
     photo: '/photo.jpg',
-    bio: '오늘 나는 배웠다.',
+    bio: 'Today I Learned.',
     contacts: {
       email: '',
       facebook: '#',
