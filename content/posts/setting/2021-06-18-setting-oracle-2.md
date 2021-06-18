@@ -1,6 +1,6 @@
 ---
-title: [Setting] oracle 실습 환경 준비(docker)
-date: "2021-05-079T22:00:00.000Z"
+title: "[Setting] oracle 실습 환경 준비(docker)"
+date: "2021-06-18T20:40:32.169Z"
 template: "post"
 draft: false
 slug: "setting/oracle/no1"
