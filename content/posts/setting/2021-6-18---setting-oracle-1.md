@@ -1,14 +1,16 @@
 ---
-title: Oracle 실습 환경 준비
+title: [Setting] oracle 실습 환경 준비(docker)
 date: "2021-05-079T22:00:00.000Z"
 template: "post"
 draft: false
-slug: "oracle/no1"
-category: "Oracle"
+slug: "setting/oracle/no1"
+category: "setting"
 tags:
-  - "Oracle"
+  - "oracle"
   - "TIL/oracle"
   - "oracle11g"
+  - "setting"
+  - "docker"
 description: "맥에서 오라클 실습 환경 준비"
 ---
 
@@ -51,15 +53,17 @@ $ docker run --name oracle11g-test -d -p 8888:8888 -p 1521:1521 jaspeen/oracle-x
 oracle11g-test는 컨테이너명이기 때문에 수정해서 사용하면 됨
 
 -d : 백그라운드 실행
+
 -p : 호스트(host) 컴퓨터에서 컨테이너에서 리스닝하고 있는 포트로 접속할 수 있도록 설정
 
 
 
+## 컨테이너 확인
+```
+$ docker ps
+```
 
 
-
-
-## 2. DOCKER LOGIN
 
 
 
